@@ -1,4 +1,4 @@
-package com.deepawasthi.springbootexample;
+package com.deepawasthi.customerAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
