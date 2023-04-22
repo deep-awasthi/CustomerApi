@@ -1,5 +1,5 @@
 # CustomerApi
 
-<img src='https://github.com/mad-skull/CustomerAPI/blob/main/GET.png' />
-<img src='https://github.com/mad-skull/CustomerAPI/blob/main/POST.png' />
-<img src='https://github.com/mad-skull/CustomerAPI/blob/main/DELETE.png' />
+<img src='https://github.com/mad-skull/CustomerApi/blob/master/GET.png' />
+<img src='https://github.com/mad-skull/CustomerApi/blob/master/POST.png' />
+<img src='https://github.com/mad-skull/CustomerApi/blob/master/DELETE.png' />
